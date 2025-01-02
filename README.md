@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML error involving an unclosed paragraph tag. The error might not always cause immediate issues, but it can lead to inconsistent rendering across different browsers and unexpected behavior in some cases.  The solution shows how to correctly close the tag for consistent and predictable results.
